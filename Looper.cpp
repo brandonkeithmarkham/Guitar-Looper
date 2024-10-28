@@ -161,3 +161,4 @@ void NextSamples(float&                               output,
         output = output * drywet + in[i] * (1 - drywet);
     }
 }
+//Added some comments to confirm connection
