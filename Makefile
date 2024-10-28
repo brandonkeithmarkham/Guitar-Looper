@@ -5,8 +5,8 @@ TARGET = ex_Looper
 CPP_SOURCES = Looper.cpp
 
 # Library Locations
-LIBDAISY_DIR = C:/Users/brand/Desktop/DaisyExamples/libDaisy
-DAISYSP_DIR = C:/Users/brand/Desktop/DaisyExamples/DaisySP
+LIBDAISY_DIR = ./libDaisy
+DAISYSP_DIR = ./DaisySP
 
 
 # Core location, and generic makefile.
